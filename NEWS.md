@@ -1,3 +1,8 @@
+# RMariaDB 1.0.12 (2020-08-26)
+
+- Internal changes only.
+
+
 # RMariaDB 1.0.11.9000 (2020-08-26)
 
 - Internal changes only.
